@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Oct 05 21:16:39 CDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-017c-5363-7280-000006a5db20 
+on database directory C:\Users\soura\Documents\NetBeansProjects\DentalInventory\DentalInventory with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/C:/Users/soura/Documents/NetBeansProjects/DentalInventory/lib/JAVADB_DRIVER_LABEL/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\Users\soura\Documents\NetBeansProjects\DentalInventory
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
