@@ -7,3 +7,7 @@
 # *** EDITING, ADDING, OR DELETING ANY OF THESE FILES MAY CAUSE DATA    ***
 # *** CORRUPTION AND LEAVE THE DATABASE IN A NON-RECOVERABLE STATE.     ***
 # *************************************************************************
+
+
+
+#Good day! im Victor Ivan from BSIT how about you?
